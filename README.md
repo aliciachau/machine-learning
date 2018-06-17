@@ -26,5 +26,17 @@ Specs:
   -Distributed Data Frameworks: Dask, Spark or Hadoop
 4. Machine learning libraries or platforms: NumPy, Scikit-learn, Gensim, Tensorflow, Caffe, Theanos, Scikit-Learn, or ML Lib for production or commercial products
 
+  II. Where to Start:
+  a. Platform options:
+    1. Weka
+    2. Python
+    3. R
+    4. Matlab
+  b. Available courses:
+    1. machinelearningmastery.com
+    2. Coursera
+    3. Udacity
+    4. Udemy
+    
 Appendix: (additional reading/websites gathered information from)
 -https://blog.udacity.com/2016/04/5-skills-you-need-to-become-a-machine-learning-engineer.html
